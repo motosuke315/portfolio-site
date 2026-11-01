@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>Taisei Motokura</title>
+    </head>
+    <body>
+        <header>
+            <p>Taisei Motokura</p>
+        </header>
+        <main>
+            <h1>
+                Taisei Motokura</br>
+                Portfolio
+            </h1>
+            <p>
+                本藏　大誠<br>
+                東京都市大学デザインデータ科学部
+            </p>
+            <p>
+                専門：バドミントン
+                スキル：バドミントンコーチ
+            </p>
+            <h3>Works</h3>
+            <ul>
+                <li>バナーデザイン</li>
+                <li>Rrocessiong小作品</li>
+                <li>アプリUIデザイン</li>
+            </ul>
+        </main>
+        <footer>
+            <span>2026 Taisei Motokura</span>
+        </footer>            
+        <h1>Hello, World!</h1>
+    </body>
+</html>
+
